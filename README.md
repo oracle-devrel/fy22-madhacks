@@ -3,7 +3,7 @@
 [![License: UPL](https://img.shields.io/badge/license-UPL-green)](https://img.shields.io/badge/license-UPL-green) [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=oracle-devrel_fy22-madhacks)](https://sonarcloud.io/dashboard?id=oracle-devrel_fy22-madhacks)
 
 ## Introduction
-MISSING
+This repo contains all the projects carried out during the FY22 Madhacks hackathon.
 
 ## Getting Started
 MISSING
@@ -12,7 +12,7 @@ MISSING
 MISSING
 
 ## Notes/Issues
-MISSING
+The projects under this repo are not production ready, not tested and not supported by Oracle.
 
 ## URLs
 * Nothing at this time
