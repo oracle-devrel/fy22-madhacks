@@ -9,8 +9,8 @@ This repository contains FY22-MADHACKS hackathon related projects
 The teams create individual projects and push the code
 
 ### Prerequisites
-Follow the instructions [at] (https://github.com/oracle-devrel/devo.tutorials/blob/main/README.md) on how to contribute
-Follow the instructions [at] (https://github.com/oracle-devrel/cool.devo.build#pages) on the custom syntax used to manage few metadata
+Follow the instructions [at](https://github.com/oracle-devrel/devo.tutorials/blob/main/README.md) on how to contribute \
+Follow the instructions [at](https://github.com/oracle-devrel/cool.devo.build#pages) on the custom syntax used to manage few metadata
 
 ## Notes/Issues
  The projects in this repository are not ready/tested and not supported by oracle
